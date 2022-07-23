@@ -2,8 +2,8 @@ title: Intermediate Python Concepts
 plan:
 - title: Intro
   statement: intro.md
-# - title: Hello World
-#   statement: hello_world.md
+- title: Binary Search Sort
+  statement: binary_search_sort.md
 # - title: Comments
 #   statement: comments.md
 # - title: Primitive Variables
